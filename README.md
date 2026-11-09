@@ -213,9 +213,7 @@ Make sure `cardi_train.csv` is available in the working directory.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/jayachandravaddi09-jpg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaya-chandra-0440a32a7/)
 
----
 
 <div align="center">
 
